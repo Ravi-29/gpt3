@@ -144,3 +144,12 @@
         line-height: 38px;
     }
 }
+
+.pp{
+    color: aliceblue;
+    margin-top: 10px;
+}
+.ll{
+    margin-top: 10px;
+    color: violet;
+}
